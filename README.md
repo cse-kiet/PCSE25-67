@@ -1,11 +1,18 @@
-Title of Project: [Credit Card Fraud Detection]
-Team Members:
-[Mayank Mishra] 
-[Vanshika Mittal]
-[Yash Kumar Jhunjhunwala] 
-[Suryansh Gupta]
-Steps for Execution:
+# 💳 Credit Card Fraud Detection
 
+## 👥 Team Members
+- **Mayank Mishra**
+- **Vanshika Mittal**
+- **Yash Kumar Jhunjhunwala**
+- **Suryansh Gupta**
+
+---
+
+## 🚀 Steps for Execution
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo-url.git
 
 
 Checklist:
