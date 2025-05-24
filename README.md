@@ -25,6 +25,4 @@
 - Synopsis✅
 - Final Presentation ✅
 - Source Code ✅
-- Database dump (.sql file)
-- If a web project, then a Docker file for deployment
 - README (This file)✅
