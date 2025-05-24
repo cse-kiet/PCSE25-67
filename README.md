@@ -14,12 +14,9 @@
    ```bash
    git clone https://github.com/cse-kiet/PCSE25-67.git
    
-   ```bash
-   download data set creditcard.csv
+- Download the Dataset creditcard CSV from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-    ```bash
-   run on google collab
-
+- Execute on google Collab 
 
 ## Checklist:
 - Final Project Report ✅
