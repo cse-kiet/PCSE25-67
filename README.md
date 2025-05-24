@@ -12,7 +12,13 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/cse-kiet/PCSE25-67.git
+   
+   ```bash
+   download data set creditcard.csv
+
+    ```bash
+   run on google collab
 
 
 ## Checklist:
